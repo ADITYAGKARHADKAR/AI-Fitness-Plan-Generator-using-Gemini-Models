@@ -1,0 +1,28 @@
+
+
+
+# Virtual Environment
+venv/
+env/
+
+# Environment Variables (NEVER push this)
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Database file
+*.db
+*.sqlite3
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+
