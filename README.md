@@ -35,6 +35,11 @@ fitbuddy/
 ├── test_gemini.py         # Quick test to verify Gemini setup
 └── README.md              # Project documentation
 ```
+### Architecture Diagram
+![Architecture](Architature.png)
+
+### Workflow Diagram
+![Workflow](WorkFlow.png)
 
 ---
 
